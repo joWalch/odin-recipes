@@ -16,7 +16,7 @@ Building a simple Website with a main index page containing links to a few recip
   * mkdir --> create a directory for images
   * create heading
   * add image links of finished dish
-  * add "description" heading below  followed by a paragraph <p></p> or two
-  * add ingredients in an unordered list <ul></ul>
+  * add "description" heading below  followed by a paragraph or two
+  * add ingredients in an unordered list
   * add "steps" heading
-  * add steps needed for making the dish in an order list <ol></ol>
+  * add steps needed for making the dish in an order list 
